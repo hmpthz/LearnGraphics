@@ -1,6 +1,4 @@
 #include "../utils.h"
-using std::cout;
-using std::cerr;
 
 
 extern void CreateTriangle(GLuint* pVAO, GLuint* pVBO);

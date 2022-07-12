@@ -4,6 +4,8 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <glm/common.hpp>
+using std::cout;
+using std::cerr;
 
 
 // OpenGL initialize template

@@ -1,6 +1,4 @@
 #include "../utils.h"
-using std::cout;
-using std::cerr;
 
 
 // Reset viewport everytime when window size is changed

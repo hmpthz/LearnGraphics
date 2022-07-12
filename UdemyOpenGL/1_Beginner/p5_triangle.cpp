@@ -1,7 +1,5 @@
 #include "../utils.h"
 #include <fstream>
-using std::cout;
-using std::cerr;
 
 
 void CreateTriangle(GLuint *pVAO, GLuint *pVBO)

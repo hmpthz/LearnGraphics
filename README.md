@@ -4,6 +4,7 @@ Learning Computer Graphics from various different courses, including topics like
 
 Udemy course: [[link]](https://www.udemy.com/course/graphics-with-modern-opengl/)
 
+Using **GLAD* + GLFW
 - ✅ Create 3D graphical applications using C++ and OpenGL
 - ✅ Use and understand GLEW and GLFW
 - ✅ Draw 3D objects to a window
